@@ -18,6 +18,10 @@
 - REST APIs fully tested with DRF's `APITestCase`
 
 ## 🧪 How to Test
-1. Run the server:
+1. Clone Repository
+2. Go to secure__server directory:
+   ```bash
+   cd secure_server
+4. Run the server:
    ```bash
    python manage.py runserver
