@@ -19,7 +19,9 @@
 
 ## 🧪 How to Test
 1. Clone Repository
-2. Go to secure__server directory:
+   ```bash
+   gh repo clone Dakuaisu/ez-assignment
+3. Go to secure__server directory:
    ```bash
    cd secure_server
 4. Run the server:
